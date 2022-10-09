@@ -1,0 +1,110 @@
+body{
+cursor: none;
+
+}
+
+
+#div1{
+    left:-115px;
+    top:80px;
+    position:fixed;
+    width:100%;
+    height:100%;
+    background-color:rgba(0, 0, 0, 0);
+    text-align:center;
+    color:black;
+    padding-top:150px;
+    
+  }
+  
+  #div1 span{
+    cursor:pointer;
+    margin-top:200px;
+    padding:20px 40px;
+    border:1px solid #000000;
+  }
+  
+
+
+#primera {
+    font-family: 'Teko', sans-serif;
+    color:rgb(0, 255, 0);
+    text-align: center;
+    position: absolute;
+    font-size: 20px;
+    top: 130px;
+    left: 170px;
+    white-space: nowrap;
+}
+
+#segunda{
+    font-family: 'Teko', sans-serif;
+    color:rgb(228, 0, 255);
+    text-align: center;
+    position: absolute;
+    font-size: 20px;
+    top: 130px;
+    left: 690px;
+    white-space: nowrap;
+
+}
+    #tercera{
+        font-family: 'Teko', sans-serif;
+        color:rgb(255, 0, 0);
+        text-align: center;
+        position: absolute;
+        font-size: 20px;
+        top: 435px;
+        left: 170px;
+        white-space: nowrap;
+    }
+       
+#cuarta{
+    font-family: 'Teko', sans-serif;
+    color:rgb(0, 255, 251);
+    text-align: center;
+    position: absolute;
+    font-size: 20px;
+    top: 435px;
+    left: 680px;
+    white-space: nowrap;
+}
+    #quinta {
+        font-family: 'Teko', sans-serif;
+        color:rgb(0, 0, 0);
+        text-align: center;
+        position: absolute;
+        font-size: 20px;
+        top: 35px;
+        left: 445px;
+        white-space: nowrap;
+
+    }
+
+    #sexta {
+        font-family: 'Teko', sans-serif;
+        color:rgb(0, 0, 0);
+        text-align: center;
+        position: absolute;
+        font-size: 20px;
+        top: 510px;
+        left: 450px;
+        white-space: nowrap;
+    }
+
+    #septima {
+        font-family: 'Teko', sans-serif;
+        color:rgb(0, 0, 0);
+        text-align: center;
+        position: absolute;
+        font-size: 50px;
+        top: 220px;
+        left: 270px;
+        white-space: nowrap;
+    }
+
+
+   
+
+
+   
